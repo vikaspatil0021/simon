@@ -59,6 +59,7 @@ function checkAnswer(level){
 
 
 function startOver(){
+  level = 0;
   ar1=[];
   started = false;
 }
